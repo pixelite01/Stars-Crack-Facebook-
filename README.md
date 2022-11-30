@@ -11,7 +11,7 @@ $ pip install rich
 
 $ git clone https://github.com/Rian-Realy/Stars-Crack-Facebook-
 
-$ cd huawei_V2
+$ cd Stars-Crack-Facebook-
 
 $ ls
 
