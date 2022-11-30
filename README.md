@@ -9,7 +9,7 @@ $ pip install bs4
 
 $ pip install rich
 
-$ git clone https://github.com/SuwanXD/huawei7_V2
+$ git clone https://github.com/Rian-Realy/Stars-Crack-Facebook-
 
 $ cd huawei_V2
 
